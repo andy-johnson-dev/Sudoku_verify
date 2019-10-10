@@ -1,2 +1,2 @@
-# Multithreading_C
-multithreading assignmentment written in C
+# Sudoku_verifier
+sudoku verifier assignmentment written in C
